@@ -1,0 +1,24 @@
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.StationsDisplay.resources
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.TrainDisplay.resources
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.Form1.resources
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.Properties.Resources.resources
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.StationsDisplay.resources
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment_1.TrainDisplay.resources
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.csproj.GenerateResource.cache
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Hamza\Documents\IT1B\Year 1\Term 4\Design Pattern\Assignment_Week 3\Assignment 1\obj\Debug\Assignment 1.pdb

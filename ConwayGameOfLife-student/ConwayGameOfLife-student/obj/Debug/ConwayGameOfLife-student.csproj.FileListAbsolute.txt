@@ -1,0 +1,13 @@
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ConwayGameOfLife\ConwayGameOfLife-student\bin\Debug\ConwayGameOfLife.exe.config
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife.exe
+C:\Users\gerwin\Documents\Visual Studio 2012\Projects\ConwayGameOfLife\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife.pdb
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\ConwayGameOfLife.exe.config
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\ConwayGameOfLife.exe
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\bin\Debug\ConwayGameOfLife.pdb
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife-student.csprojAssemblyReference.cache
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife.Form1.resources
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife.Properties.Resources.resources
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife-student.csproj.GenerateResource.cache
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife-student.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife.exe
+C:\Users\Hamza\Documents\IT1B\Term 4\Design Pattern\ConwayGameOfLife-student\ConwayGameOfLife-student\obj\Debug\ConwayGameOfLife.pdb

@@ -1,0 +1,14 @@
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\bin\Debug\Assignment 1.exe.config
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\bin\Debug\Assignment 1.exe
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\bin\Debug\Assignment 1.pdb
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\obj\Debug\Assignment 1.exe
+c:\users\hamza\source\repos\Assignment_Week 4\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\obj\Debug\Assignment 1.csprojAssemblyReference.cache
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Hamza\Documents\GitHub\Design-Patterns\Assignment Week 4 - Stategy & Adapter\Assignment 1\obj\Debug\Assignment 1.pdb
